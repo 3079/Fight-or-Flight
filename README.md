@@ -26,6 +26,6 @@ The goal is to save as many people as you can. When there's no more people left 
 I was responsible for most of the technical aspects of the game, i.e. programming and level building.  
 Music and the Audio Manager were made by my teammate [Chertkov](https://chertkov.itch.io/).  
 All the art was made by my teammate [Blobasaur](https://itch.io/profile/blobasaur).  
-The tilemap used is from [Kenney](https://www.kenney.nl/).  
+Some of the UI icons used are from [Kenney](https://www.kenney.nl/).  
 
 The game was made using Unity 2020
