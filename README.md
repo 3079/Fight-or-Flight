@@ -9,22 +9,17 @@ This game was made in 72 hours as a Ludum Dare 50 entry.
   <img src="https://github.com/3079/Fight-or-Flight/blob/main/fof_1.gif?raw=true"/>
 </p>
 
-Enemies attack your base in waves so you have to place your towers and assign men to them strategicaly. The more men in a tower or mine, the faster it shoots or the more gold it produces.
+Enemies attack your base in waves so you have to place your towers and assign men to them strategicaly. The more men in a tower or mine, the faster it shoots or the more gold it produces.  
+When 8 people are sent to space you receive a science point which unlocks the mortair and the final turret tower upgrade.
 
 <p align="center">
   <img src="https://github.com/3079/Fight-or-Flight/blob/main/fof_2.gif?raw=true"/>
 </p>
 
-When 8 people are sent to space you receive a science point which unlocks the mortair and the final turret tower upgrade.
-
-<p align="center">
-  <img src="https://github.com/3079/Fight-or-Flight/blob/main/fof_3.gif?raw=true"/>
-</p>
-
 The goal is to save as many people as you can. When there's no more people left on the base the game is over.
 
 <p align="center">
-  <img src="https://github.com/3079/Fight-or-Flight/blob/main/fof_4.gif?raw=true"/>
+  <img src="https://github.com/3079/Fight-or-Flight/blob/main/fof_3.gif?raw=true"/>
 </p>
 
 I was responsible for most of the technical aspects of the game, i.e. programming and level building.  
